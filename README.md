@@ -43,3 +43,12 @@ Due to [MCP SDK bug #423](https://github.com/modelcontextprotocol/python-sdk/iss
 - **Python 3.11+** - Runtime environment
 - **httpx** - HTTP client for weather API
 - **ngrok** - HTTP tunneling
+
+## 📚 Learn More
+
+- **FastMCP Documentation**: [https://gofastmcp.com/getting-started/installation](https://gofastmcp.com/getting-started/installation)
+- **MCP Server Development**: [https://modelcontextprotocol.io/quickstart/server](https://modelcontextprotocol.io/quickstart/server#importing-packages-and-setting-up-the-instance)
+
+---
+
+**Created by**: Oséas Filho

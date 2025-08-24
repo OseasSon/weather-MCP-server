@@ -286,7 +286,16 @@ Test each tool with these examples:
 
 ---
 
+## 📚 References
+
+- **FastMCP Installation Guide**: [https://gofastmcp.com/getting-started/installation](https://gofastmcp.com/getting-started/installation)
+- **Official MCP Server Development**: [https://modelcontextprotocol.io/quickstart/server#importing-packages-and-setting-up-the-instance](https://modelcontextprotocol.io/quickstart/server#importing-packages-and-setting-up-the-instance)
+- **ngrok Installation**: [https://ngrok.com/downloads/mac-os?tab=install](https://ngrok.com/downloads/mac-os?tab=install)
+- **Intercom MCP Connectors**: [https://www.intercom.com/help/en/articles/11461635-powering-fin-with-your-external-tools-using-mcp-connectors#h_e42fe964f7](https://www.intercom.com/help/en/articles/11461635-powering-fin-with-your-external-tools-using-mcp-connectors#h_e42fe964f7)
+
+---
+
 **Created by**: Oséas Filho
-**Last Updated**: August 2025
+**Created on**: August 2025
 **MCP Version**: 1.13.1
 **FastMCP Version**: 2.11.3
