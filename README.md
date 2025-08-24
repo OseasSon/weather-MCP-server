@@ -1,13 +1,13 @@
 # Weather MCP Server for Intercom
 
-Custom Model Context Protocol (MCP) server that integrates weather tools with Intercom for enhanced customer support.
+Custom Model Context Protocol (MCP) server that integrates weather tools with Intercom.
 
-## 🎯 For Solutions Engineers
+## 🎯 What This Is
 
-This project demonstrates custom MCP server integration with Intercom, perfect for:
+This project demonstrates how to build a custom MCP server that integrates with Intercom. Use it as a template for:
+- **Learning MCP development** with real-world examples
+- **Building your own tools** by replacing weather APIs with your data sources
 - **Product demos** showing MCP capabilities
-- **Customer proof-of-concepts** for weather-related businesses
-- **Technical demonstrations** of Intercom's extensibility
 
 ## 🚀 Quick Start
 
@@ -42,10 +42,4 @@ Due to [MCP SDK bug #423](https://github.com/modelcontextprotocol/python-sdk/iss
 - **FastMCP** - MCP server framework
 - **Python 3.11+** - Runtime environment
 - **httpx** - HTTP client for weather API
-- **uvicorn** - ASGI server
 - **ngrok** - HTTP tunneling
-
----
-
-**Created for Intercom Solutions Engineering Team**
-**Status**: ✅ Working with Intercom integration

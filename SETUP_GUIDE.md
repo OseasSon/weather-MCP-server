@@ -48,7 +48,6 @@ Create `weather.py` with the following content:
 
 ```python
 from typing import Any
-import asyncio
 import httpx
 from fastmcp import FastMCP
 
